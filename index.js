@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
 }
 function iLoveTheBeatles(n) {
   var array3 = []
-  var n = 7
+  var n = 17
   function incrementVariable() {
     n = n + 1
     return n
