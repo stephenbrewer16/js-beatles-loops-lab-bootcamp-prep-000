@@ -17,14 +17,14 @@ function johnLennonFacts(facts) {
 }
 function iLoveTheBeatles(n) {
   var array3 = []
-  var n = 0
+  var num = 0
   function incrementVariable() {
-    n = n + 1
-    return n
+    num = num + 1
+    return num
 }
 do {
   array3.push("I love the Beatles!")
-  n++
-} while (n < 15);
+  num++
+} while (num < 15);
 return array3
 }
